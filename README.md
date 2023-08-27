@@ -1,0 +1,2 @@
+## APLIKASI CERPEN (ANDROID)
+Aplikasi cerpen ini menggunakan Flutter dan php sebagai API nya. untuk spesifikasi flutter yang digunakan bisa di lihat pada pubspec.yaml yang berada pada: Cerpen (Flutter)
